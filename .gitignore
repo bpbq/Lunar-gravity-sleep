@@ -1,0 +1,12 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.tiff
+*.tif
+
+# Datos demograficos completos de Toba/Qom: NO subir
+data/Toba_complete_dataset.csv
+
+# Manuscrito, cartas a revisores y versiones del paper: NO subir
+Paper/

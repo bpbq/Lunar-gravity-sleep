@@ -1,0 +1,151 @@
+"","var1","var2","Lag","obs_mean_ACF","pval_perm","pval_perm_adj"
+"1","Duration","Daily mean total gravity",-12,0.0289361178465277,0.312,0.39
+"2","Duration","Daily mean total gravity",-11,0.00464918805958935,0.878,0.914583333333333
+"3","Duration","Daily mean total gravity",-10,-0.0239956896497963,0.433,0.51547619047619
+"4","Duration","Daily mean total gravity",-9,-0.0480916330778716,0.161,0.236764705882353
+"5","Duration","Daily mean total gravity",-8,-0.0706965182540558,0.041,0.0732142857142857
+"6","Duration","Daily mean total gravity",-7,-0.0873614826322248,0.013,0.0361111111111111
+"7","Duration","Daily mean total gravity",-6,-0.101780259697016,0.009,0.0321428571428571
+"8","Duration","Daily mean total gravity",-5,-0.113568653336719,0.005,0.0321428571428571
+"9","Duration","Daily mean total gravity",-4,-0.119762280014249,0.009,0.0321428571428571
+"10","Duration","Daily mean total gravity",-3,-0.118374300269832,0.011,0.034375
+"11","Duration","Daily mean total gravity",-2,-0.112801060912302,0.015,0.0375
+"12","Duration","Daily mean total gravity",-1,-0.0966039839603786,0.039,0.0732142857142857
+"13","Duration","Daily mean total gravity",0,-0.0732212057091742,0.11,0.171875
+"14","Duration","Daily mean total gravity",1,-0.0475036516379275,0.299,0.39
+"15","Duration","Daily mean total gravity",2,-0.0225135230564155,0.59,0.652173913043478
+"16","Duration","Daily mean total gravity",3,0.000369969961886492,0.996,0.996
+"17","Duration","Daily mean total gravity",4,0.023160637193576,0.6,0.652173913043478
+"18","Duration","Daily mean total gravity",5,0.0458111845322505,0.251,0.348611111111111
+"19","Duration","Daily mean total gravity",6,0.065021970746862,0.101,0.168333333333333
+"20","Duration","Daily mean total gravity",7,0.0816918951994802,0.029,0.0604166666666667
+"21","Duration","Daily mean total gravity",8,0.0925430507083665,0.009,0.0321428571428571
+"22","Duration","Daily mean total gravity",9,0.0976223587080289,0.007,0.0321428571428571
+"23","Duration","Daily mean total gravity",10,0.0966210954149959,0.005,0.0321428571428571
+"24","Duration","Daily mean total gravity",11,0.0883746098774432,0.007,0.0321428571428571
+"25","Duration","Daily mean total gravity",12,0.0746085827323063,0.017,0.0386363636363636
+"26","Duration","Illuminance",-12,-0.0146333700228363,0.608,0.754545454545455
+"27","Duration","Illuminance",-11,-0.0211623961668393,0.476,0.74375
+"28","Duration","Illuminance",-10,-0.027342741945772,0.377,0.725
+"29","Duration","Illuminance",-9,-0.0297030988585621,0.344,0.725
+"30","Duration","Illuminance",-8,-0.0300099632727524,0.369,0.725
+"31","Duration","Illuminance",-7,-0.0266558917464281,0.433,0.74375
+"32","Duration","Illuminance",-6,-0.0222029516933951,0.523,0.754545454545455
+"33","Duration","Illuminance",-5,-0.0161348760426811,0.653,0.754545454545455
+"34","Duration","Illuminance",-4,-0.00770192344399376,0.821,0.892391304347826
+"35","Duration","Illuminance",-3,0.00419193335548299,0.899,0.936458333333333
+"36","Duration","Illuminance",-2,0.0174082142548759,0.664,0.754545454545455
+"37","Duration","Illuminance",-1,0.0319322286303572,0.456,0.74375
+"38","Duration","Illuminance",0,0.0474585031497582,0.286,0.725
+"39","Duration","Illuminance",1,0.0560559806846761,0.229,0.725
+"40","Duration","Illuminance",2,0.0596288016058822,0.211,0.725
+"41","Duration","Illuminance",3,0.0639515243961259,0.188,0.725
+"42","Duration","Illuminance",4,0.0683727366667624,0.162,0.725
+"43","Duration","Illuminance",5,0.0694522734606402,0.153,0.725
+"44","Duration","Illuminance",6,0.067731462465452,0.145,0.725
+"45","Duration","Illuminance",7,0.056563359372399,0.199,0.725
+"46","Duration","Illuminance",8,0.0398889591660692,0.338,0.725
+"47","Duration","Illuminance",9,0.0216792365926863,0.564,0.754545454545455
+"48","Duration","Illuminance",10,-0.000592817619293948,0.984,0.984
+"49","Duration","Illuminance",11,-0.0168474020923594,0.614,0.754545454545455
+"50","Duration","Illuminance",12,-0.0314950688665521,0.33,0.725
+"51","Sleep offset","Daily mean total gravity",-12,-0.0354148245852584,0.245,0.340277777777778
+"52","Sleep offset","Daily mean total gravity",-11,-0.044200631845549,0.155,0.258333333333333
+"53","Sleep offset","Daily mean total gravity",-10,-0.053389575587722,0.108,0.258333333333333
+"54","Sleep offset","Daily mean total gravity",-9,-0.0551152933987933,0.117,0.258333333333333
+"55","Sleep offset","Daily mean total gravity",-8,-0.055068893424801,0.129,0.258333333333333
+"56","Sleep offset","Daily mean total gravity",-7,-0.0465189303610766,0.217,0.319117647058824
+"57","Sleep offset","Daily mean total gravity",-6,-0.0351348168612645,0.379,0.498684210526316
+"58","Sleep offset","Daily mean total gravity",-5,-0.0183798512575543,0.667,0.725
+"59","Sleep offset","Daily mean total gravity",-4,0.00258676836364291,0.938,0.977083333333333
+"60","Sleep offset","Daily mean total gravity",-3,0.0309694445770131,0.474,0.538636363636364
+"61","Sleep offset","Daily mean total gravity",-2,0.0604850272795458,0.182,0.284375
+"62","Sleep offset","Daily mean total gravity",-1,0.0930384683897397,0.046,0.133333333333333
+"63","Sleep offset","Daily mean total gravity",0,0.123582780311597,0.007,0.0291666666666667
+"64","Sleep offset","Daily mean total gravity",1,0.144130241781571,0.004,0.02
+"65","Sleep offset","Daily mean total gravity",2,0.153906468316693,0.002,0.02
+"66","Sleep offset","Daily mean total gravity",3,0.151507582463134,0.002,0.02
+"67","Sleep offset","Daily mean total gravity",4,0.140813632799818,0.003,0.02
+"68","Sleep offset","Daily mean total gravity",5,0.122622298091336,0.004,0.02
+"69","Sleep offset","Daily mean total gravity",6,0.0983293276911805,0.016,0.0571428571428571
+"70","Sleep offset","Daily mean total gravity",7,0.0738045517615468,0.048,0.133333333333333
+"71","Sleep offset","Daily mean total gravity",8,0.0482368899067504,0.149,0.258333333333333
+"72","Sleep offset","Daily mean total gravity",9,0.0225925655099538,0.468,0.538636363636364
+"73","Sleep offset","Daily mean total gravity",10,-0.00047550877160393,0.991,0.991
+"74","Sleep offset","Daily mean total gravity",11,-0.0228012458438856,0.43,0.5375
+"75","Sleep offset","Daily mean total gravity",12,-0.0424387292587376,0.141,0.258333333333333
+"76","Sleep offset","Illuminance",-12,0.0798237804863595,0.013,0.2625
+"77","Sleep offset","Illuminance",-11,0.0727632221197011,0.024,0.2625
+"78","Sleep offset","Illuminance",-10,0.0607478646193024,0.054,0.2625
+"79","Sleep offset","Illuminance",-9,0.0457446642696851,0.152,0.345454545454545
+"80","Sleep offset","Illuminance",-8,0.0268576566517646,0.395,0.580882352941177
+"81","Sleep offset","Illuminance",-7,0.00570738264471287,0.853,0.888541666666667
+"82","Sleep offset","Illuminance",-6,-0.0172382646894497,0.638,0.759523809523809
+"83","Sleep offset","Illuminance",-5,-0.0391079882226329,0.295,0.526785714285714
+"84","Sleep offset","Illuminance",-4,-0.0607445461251428,0.124,0.31
+"85","Sleep offset","Illuminance",-3,-0.0772460467175587,0.077,0.2625
+"86","Sleep offset","Illuminance",-2,-0.0874491308365051,0.059,0.2625
+"87","Sleep offset","Illuminance",-1,-0.09216625370779,0.055,0.2625
+"88","Sleep offset","Illuminance",0,-0.0909812748007093,0.068,0.2625
+"89","Sleep offset","Illuminance",1,-0.0892773849481563,0.084,0.2625
+"90","Sleep offset","Illuminance",2,-0.0780983402659142,0.111,0.308333333333333
+"91","Sleep offset","Illuminance",3,-0.0612814454688116,0.193,0.402083333333333
+"92","Sleep offset","Illuminance",4,-0.0429136470535402,0.349,0.5734375
+"93","Sleep offset","Illuminance",5,-0.0256634524719189,0.566,0.7075
+"94","Sleep offset","Illuminance",6,-0.0082587542122088,0.846,0.888541666666667
+"95","Sleep offset","Illuminance",7,0.00345426099218874,0.938,0.938
+"96","Sleep offset","Illuminance",8,0.0129466036957054,0.764,0.868181818181818
+"97","Sleep offset","Illuminance",9,0.0229208622125515,0.559,0.7075
+"98","Sleep offset","Illuminance",10,0.0272860750782117,0.457,0.634722222222222
+"99","Sleep offset","Illuminance",11,0.030744204956866,0.367,0.5734375
+"100","Sleep offset","Illuminance",12,0.0352644058895518,0.278,0.526785714285714
+"101","Sleep onset","Daily mean total gravity",-12,-0.0457422594085995,0.128,0.2
+"102","Sleep onset","Daily mean total gravity",-11,-0.0312218294407845,0.304,0.38
+"103","Sleep onset","Daily mean total gravity",-10,-0.0126506738896899,0.668,0.708333333333333
+"104","Sleep onset","Daily mean total gravity",-9,0.00646920947869962,0.819,0.819
+"105","Sleep onset","Daily mean total gravity",-8,0.0252666287192577,0.451,0.536904761904762
+"106","Sleep onset","Daily mean total gravity",-7,0.043258807498263,0.211,0.290789473684211
+"107","Sleep onset","Daily mean total gravity",-6,0.062245273273479,0.098,0.163333333333333
+"108","Sleep onset","Daily mean total gravity",-5,0.0827553437101397,0.05,0.0961538461538462
+"109","Sleep onset","Daily mean total gravity",-4,0.101609511848992,0.028,0.0636363636363636
+"110","Sleep onset","Daily mean total gravity",-3,0.118505054631635,0.013,0.040625
+"111","Sleep onset","Daily mean total gravity",-2,0.134348413622797,0.007,0.0357142857142857
+"112","Sleep onset","Daily mean total gravity",-1,0.1452856150559,0.006,0.0357142857142857
+"113","Sleep onset","Daily mean total gravity",0,0.150831461353399,0.006,0.0357142857142857
+"114","Sleep onset","Daily mean total gravity",1,0.144331201206761,0.004,0.0357142857142857
+"115","Sleep onset","Daily mean total gravity",2,0.129609334852045,0.008,0.0357142857142857
+"116","Sleep onset","Daily mean total gravity",3,0.10757952501615,0.024,0.06
+"117","Sleep onset","Daily mean total gravity",4,0.079936499016199,0.07,0.125
+"118","Sleep onset","Daily mean total gravity",5,0.0476629777061656,0.221,0.290789473684211
+"119","Sleep onset","Daily mean total gravity",6,0.0142995027042912,0.68,0.708333333333333
+"120","Sleep onset","Daily mean total gravity",7,-0.0166171622821935,0.63,0.708333333333333
+"121","Sleep onset","Daily mean total gravity",8,-0.0437173911998189,0.2,0.290789473684211
+"122","Sleep onset","Daily mean total gravity",9,-0.065105589929078,0.046,0.0958333333333333
+"123","Sleep onset","Daily mean total gravity",10,-0.0803958800849992,0.018,0.05
+"124","Sleep onset","Daily mean total gravity",11,-0.0890244778171071,0.01,0.0357142857142857
+"125","Sleep onset","Daily mean total gravity",12,-0.0915327282635486,0.009,0.0357142857142857
+"126","Sleep onset","Illuminance",-12,0.0666189593847216,0.025,0.128571428571429
+"127","Sleep onset","Illuminance",-11,0.0651610055400826,0.036,0.128571428571429
+"128","Sleep onset","Illuminance",-10,0.0599357430149651,0.055,0.1375
+"129","Sleep onset","Illuminance",-9,0.0492502844156373,0.129,0.230357142857143
+"130","Sleep onset","Illuminance",-8,0.0337340185716384,0.28,0.380263157894737
+"131","Sleep onset","Illuminance",-7,0.0142626987096176,0.634,0.689130434782609
+"132","Sleep onset","Illuminance",-6,-0.00701622452372292,0.831,0.865625
+"133","Sleep onset","Illuminance",-5,-0.028095856987359,0.425,0.53125
+"134","Sleep onset","Illuminance",-4,-0.0511488029430439,0.177,0.2765625
+"135","Sleep onset","Illuminance",-3,-0.0717401713772167,0.082,0.177083333333333
+"136","Sleep onset","Illuminance",-2,-0.0880664431282679,0.044,0.133333333333333
+"137","Sleep onset","Illuminance",-1,-0.101076009286834,0.035,0.128571428571429
+"138","Sleep onset","Illuminance",0,-0.111323651092312,0.03,0.128571428571429
+"139","Sleep onset","Illuminance",1,-0.121438705046414,0.02,0.128571428571429
+"140","Sleep onset","Illuminance",2,-0.1151839909385,0.023,0.128571428571429
+"141","Sleep onset","Illuminance",3,-0.106941855525237,0.032,0.128571428571429
+"142","Sleep onset","Illuminance",4,-0.0957271514164429,0.048,0.133333333333333
+"143","Sleep onset","Illuminance",5,-0.0815287683703187,0.085,0.177083333333333
+"144","Sleep onset","Illuminance",6,-0.063905665591329,0.149,0.248333333333333
+"145","Sleep onset","Illuminance",7,-0.0453854658315054,0.289,0.380263157894737
+"146","Sleep onset","Illuminance",8,-0.020688356923593,0.634,0.689130434782609
+"147","Sleep onset","Illuminance",9,0.00281923234006169,0.954,0.954
+"148","Sleep onset","Illuminance",10,0.0262979434712695,0.454,0.54047619047619
+"149","Sleep onset","Illuminance",11,0.0412586128262193,0.24,0.352941176470588
+"150","Sleep onset","Illuminance",12,0.0535461165937862,0.11,0.211538461538462
